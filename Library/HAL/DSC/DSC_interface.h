@@ -17,4 +17,7 @@ void DSC_voidInit();
 
 void DSC_voidSetDirectionAndRPM(u8 DSC_u8_Direction, u16 DSC_u8_RPM);
 
+void DSC_voidStop();
+
 #endif /* HAL_DSC_DSC_INTERFACE_H_ */
+
